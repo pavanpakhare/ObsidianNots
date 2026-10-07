@@ -1,4 +1,4 @@
-If you're learning **API design / Spring Boot**, think of these as different ways for a client and server to communicate.
+API
 
 ### Quick comparison
 
