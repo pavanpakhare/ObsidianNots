@@ -1269,6 +1269,3 @@ Instead of memorizing every class, remember this:
 ArrayList  ... Hash  Linked Tree Hash Linked Tree
                  Set   Hash   Set Map  Hash  Map
 ```
-
-**For Java/Spring interviews, prioritize:**  
-`ArrayList → LinkedList → HashSet → LinkedHashSet → TreeSet → HashMap → LinkedHashMap → TreeMap → Queue/Deque → PriorityQueue → Iterator → Comparable/Comparator → HashMap internals → ConcurrentHashMap`.
